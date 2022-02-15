@@ -8,4 +8,5 @@
 5. Clone and verify repo size
 
 Fetch commit: `git fetch origin 41bbd95bf8a8ebf7f4df61e27dcc4f48231db3c3`
+
 Checkout commit: `git checkout 41bbd95bf8a8ebf7f4df61e27dcc4f48231db3c3`
